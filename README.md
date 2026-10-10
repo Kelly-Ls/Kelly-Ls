@@ -8,3 +8,4 @@ I hope I can learn something fun in it.
 - 😀 Let's learning together.
 - 🤝And nice to meet you all.
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Ls&layout=compact)
