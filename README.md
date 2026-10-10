@@ -10,4 +10,4 @@ I hope I can learn something fun in it.
   
 ## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Ls&layout=compact)
 
-##![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls&show_icons=true)
+## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls&show_icons=true)
